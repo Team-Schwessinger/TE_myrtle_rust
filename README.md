@@ -18,6 +18,6 @@ The specific notebooks are:
   
   Much of the analysis was inspired by the following publications:
   
-  "The Parauncinula polyspora Draft Genome Provides Insights into Patterns of Gene Erosion and Genome Expansion in Powdery Mildew Fungi", 10.1128/mBio.01692-19. 
+  "The Parauncinula polyspora Draft Genome Provides Insights into Patterns of Gene Erosion and Genome Expansion in Powdery Mildew Fungi", 10.1128/mBio.01692-19.  
   and.  
   "Ancestral repeats have shaped epigenome and genome composition for millions of years in <i>Arabidopsis thaliana</i>", 10.1038/ncomms5104.
